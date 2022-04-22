@@ -46,7 +46,7 @@ public class Principal {
         System.out.println("Las horas de estudio Teorico: "+asignatura.getHorasEstudio());
         System.out.println("Las horas de estudio Practico: "+asignatura.getHorasPractica());
         System.out.println("El total de horas de la Asignatura "+asignatura.getNombre()+" son de "+asignatura.horasTotal()+" horas");
-             
+              
     }
     
 }
